@@ -26,5 +26,3 @@ grouping are exploratory choices, not causal or policy conclusions.
 
 Recovery corrected a string bitwise-AND expression in `load_coordinates()` to a
 single Spark SQL filter. No Spark/cloud queries or plots were executed during recovery.
-
-See `RECOVERY_NOTES.md` for snapshot provenance.
